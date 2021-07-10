@@ -1,4 +1,4 @@
-package artLogger
+package artlogger
 
 import (
 	"flag"
