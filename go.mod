@@ -1,1 +1,1 @@
-module github.com/ApreFiux/artLogger
+module github.com/ApresFiux/artLogger
